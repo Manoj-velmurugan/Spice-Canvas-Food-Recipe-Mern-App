@@ -1,5 +1,5 @@
 # Project Title
-Spice Canvas
+Spice Canvas - Food Recipe App
 
 ## Description
 Spice Canvas shows various food recipes with their preparation instructions.
