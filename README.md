@@ -8,7 +8,7 @@ Spice Canvas shows various food recipes with their preparation instructions.
 - Feature 1: Food recipes are separated based on their type, eg: Starter, Breakfast, Lunch, Desserts, Side and Drinks.
 - Feature 2: The recipes will be shown based on the name of the dishes which user enters.
 - Feature 3: Developers can add multiple dishes in future as MongoDB is used.
-- Feature 4: All the dishes and their informations are rendering from my MongoDB Databse.
+- Feature 4: All the dishes and their informations are rendering from my MongoDB Database.
 - Feature 5: User attractive UI.
 
 ## Technologies Used
